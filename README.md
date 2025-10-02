@@ -44,9 +44,7 @@ Developed an end-to-end system to detect plant leaf diseases and recommend remed
       conda env create -f environment.yml
       conda activate tf_gpu
 
-3. Create
-   ```bash
-   config.json with dataset and model paths.
+3. Create config.json with dataset and model paths.
 
 6. Run the web app:
    ```bash
