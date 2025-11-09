@@ -68,6 +68,3 @@ Developed an end-to-end system to detect plant leaf diseases and recommend remed
 
 - Google Gemini API
 
-# Contributors
-
-Ipsa Badoniya
